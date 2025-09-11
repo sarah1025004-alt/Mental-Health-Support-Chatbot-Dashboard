@@ -1,8 +1,6 @@
 # 🧠 Mental-Health-Support-Chatbot-Dashboard
 
-The **Mental Health Support Chatbot & Dashboard** is a digital platform designed to promote emotional well-being by combining **AI-driven conversations** with **professional oversight**.  
-
-It enables users to seek **immediate mental health assistance** through a chatbot, while counselors and administrators can **monitor, guide, and intervene** when necessary using secure dashboards.  
+The **Mental Health Support Chatbot & Dashboard** is a digital platform designed to promote emotional well-being by combining **AI-driven conversations** with **professional oversight**. It enables users to seek **immediate mental health assistance** through a chatbot, while counselors and administrators can **monitor, guide, and intervene** when necessary using secure dashboards.  
 
 This system emphasizes **empathy, privacy, and reliability**, making it a valuable support tool for both individuals and mental health professionals.  
 
@@ -54,7 +52,5 @@ This system emphasizes **empathy, privacy, and reliability**, making it a valuab
 # 📌 Summary
 
 The **Mental Health Support Chatbot & Dashboard** is more than just a chatbot — it’s a **comprehensive support ecosystem**.  
-
 It helps users feel **heard and supported**, while equipping counselors with **data-driven tools** to provide timely, effective care.  
-
 Built with **AI, security, and empathy** at its core, this system is a **reliable companion for mental wellness**.  
