@@ -1,6 +1,6 @@
 # 🧠 MindMate
 
-The **Mental Health Support Chatbot & Dashboard** is a digital platform designed to promote emotional well-being by combining **AI-driven conversations** with **professional oversight**. It enables users to seek **immediate mental health assistance** through a chatbot, while counselors and administrators can **monitor, guide, and intervene** when necessary using secure dashboards.  
+The **MindMate** is a digital platform designed to promote emotional well-being by combining **AI-driven conversations** with **professional oversight**. It enables users to seek **immediate mental health assistance** through a chatbot, while counselors and administrators can **monitor, guide, and intervene** when necessary using secure dashboards.  
 
 This system emphasizes **empathy, privacy, and reliability**, making it a valuable support tool for both individuals and mental health professionals.  
 
