@@ -54,3 +54,7 @@ This system emphasizes **empathy, privacy, and reliability**, making it a valuab
 The **Mental Health Support Chatbot & Dashboard** is more than just a chatbot — it’s a **comprehensive support ecosystem**.  
 It helps users feel **heard and supported**, while equipping counselors with **data-driven tools** to provide timely, effective care.  
 Built with **AI, security, and empathy** at its core, this system is a **reliable companion for mental wellness**.  
+
+
+![Use Case Diagram](MentalHealthSupportSys.drawio)
+
