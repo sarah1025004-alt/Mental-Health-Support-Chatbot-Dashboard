@@ -56,5 +56,3 @@ It helps users feel **heard and supported**, while equipping counselors with **d
 Built with **AI, security, and empathy** at its core, this system is a **reliable companion for mental wellness**.  
 
 
-![Use Case Diagram](MentalHealthSupportSys.drawio)
-
