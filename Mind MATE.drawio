@@ -1,0 +1,148 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="I94GOVfXK_-Ysl3YlETq">
+    <mxGraphModel dx="996" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-XldFtPKEctHbsqBueEQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-100" width="550" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-2" value="Emergency Services" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-3" value="Administrator&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="75" width="30" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-5" value="Counselor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="150" as="sourcePoint" />
+            <mxPoint x="240" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="150" as="sourcePoint" />
+            <mxPoint x="280" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.083;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-XldFtPKEctHbsqBueEQ-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="120" as="sourcePoint" />
+            <mxPoint x="230" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="130" as="sourcePoint" />
+            <mxPoint x="260" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-32" value="Interact with chatbot for guidance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-34" value="receive empathetic responses(via NLP)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-35" value="View past conversation history&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-36" value="Access emergency support (trigger alerts)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-XldFtPKEctHbsqBueEQ-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="420" as="sourcePoint" />
+            <mxPoint x="220" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-XldFtPKEctHbsqBueEQ-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="440" as="sourcePoint" />
+            <mxPoint x="270" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="460" as="sourcePoint" />
+            <mxPoint x="230" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-41" value="Review users conversation history&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-42" value="Monitor alerts for high risk users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-43" value="Access dashboard with insights and reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="520" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-44" value="Provide follow up support" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="460" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0.782;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.855;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="229.80999999999995" as="sourcePoint" />
+            <mxPoint x="779.8500000000001" y="159.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.782;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="170" as="sourcePoint" />
+            <mxPoint x="770.1000000000001" y="139.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="92.5" as="sourcePoint" />
+            <mxPoint x="770" y="132.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="60" as="sourcePoint" />
+            <mxPoint x="780" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="410" as="sourcePoint" />
+            <mxPoint x="780" y="409.47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-54" value="Manage Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-55" value="Monitor system usage and reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-57" value="Manage counselor accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-58" value="Configure security and access levels" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-59" value="Receive alerts for high risk users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-63" value="Mind Mate Ecosystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-100" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-XldFtPKEctHbsqBueEQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-XldFtPKEctHbsqBueEQ-63" target="-XldFtPKEctHbsqBueEQ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
