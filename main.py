@@ -7,7 +7,7 @@ from typing import List
 
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv("api-key")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 from database import SessionLocal, engine, Base
 import models, crud, ai, utils
 from schemas import UserCreate, UserOut, ChatCreate, ChatOut
